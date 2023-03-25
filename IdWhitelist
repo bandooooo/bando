@@ -1,0 +1,8 @@
+local whitelisted = {
+    [108234905] = true,
+	[108234905] = true,
+	[108234905] = true
+}
+
+
+return whitelisted
