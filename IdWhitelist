@@ -1,8 +1,0 @@
-local whitelisted = {
-    [4396281019] = true,
-	[4396281019] = true,
-	[4396281019] = true
-}
-
-
-return whitelisted
